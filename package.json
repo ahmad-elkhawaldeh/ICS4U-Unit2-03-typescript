@@ -1,0 +1,27 @@
+{
+  "name": "ics4u-unit2-03-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad-elkhawaldeh/ICS4U-Unit2-03-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmad-elkhawaldeh/ICS4U-Unit2-03-typescript/issues"
+  },
+  "homepage": "https://github.com/ahmad-elkhawaldeh/ICS4U-Unit2-03-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
